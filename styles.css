@@ -36,9 +36,10 @@ a:visited {
 }
 
 .header img {
-    height: 120px;
+    height: 84px;
     margin-bottom: 10px;
-    width: 120px;
+    margin-top: 13px;
+    width: 432px;
 }
 
 nav {
